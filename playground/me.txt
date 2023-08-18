@@ -1,5 +1,0 @@
-{{#user}}
-Name: Chandranil Purkayastha
-Skills: Black Box Testing, Performance Testing, Smoke Testing, Accessibility Testing, Regression Testing, API Testing, Mobile Testing SDLC, STLC, Agile, Test Plan, HTML, CSS, JAVA, SQL and MongoDB.
-Email: chandranilpurkayastha@gmail.com
-{{/user}}
